@@ -1,0 +1,8 @@
+venv
+
+*.sqlite3
+
+.idea
+.mypy_cache
+__pycache__
+
